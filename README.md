@@ -43,7 +43,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/results-summary-component-LaleUd9fud)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/rest-countries-api-with-color-theme-switcher-qejyt8ztvy)
 - Live Site URL: [Add live site URL here](https://rest-countries-api-chrisnics.vercel.app/)
 
 ## My process
