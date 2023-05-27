@@ -41,7 +41,7 @@ const Home = () => {
   return (
     <section className="bg-very-light-gray dark:bg-very-dark-blue min-h-screen">
       <div className="container mx-auto flex flex-col gap-y-10 py-5">
-        <div className="flex flex-col gap-y-10">
+        <div className="flex flex-col gap-y-10 md:flex-row md:justify-between md:gap-x-10 md:gap-y-0 ">
           <Search setQuery={setQuery} />
           <Filter setFilter={setFilter} />
         </div>

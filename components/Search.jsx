@@ -5,7 +5,7 @@ const Search = ({ setQuery }) => {
   const [isFocus, setIsFocus] = useState(false);
   return (
     <div
-      className={`flex max-w-xl  items-center gap-x-2 rounded-lg bg-white pl-8 shadow-sm  ${
+      className={`flex  w-full items-center gap-x-2 rounded-lg bg-white pl-8 shadow-sm md:w-1/2 ${
         isFocus ? 'ring-dark-blue ring-1 dark:ring-1 dark:ring-white ' : ''
       }   dark:bg-dark-blue`}>
       <IconSearch className="text-dark-gray dark:text-white" />
